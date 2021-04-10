@@ -1,0 +1,25 @@
+{
+	"listaContatos": [
+	    {
+        "id": 1,
+        "nome": "Isabella Primon",
+        "email": "isa.primon@mail.com",
+        "celular": "99993-3455",
+        "imagem": "https://cdn.pixabay.com/photo/2016/03/31/19/11/avatar-1294782_960_720.png"
+    },
+    {
+        "id": 2,
+        "nome": "Thiago Quelucci",
+        "email": "thiago.th@mail.com",
+        "celular": "92424-2525",
+        "imagem": "https://cdn.pixabay.com/photo/2012/04/13/13/38/man-32445_960_720.png"
+    },
+    {
+        "id": 3,
+        "nome": "Rafael Castro",
+        "email": "rafa.castro@mail.com",
+        "celular": "99233-3155",
+        "imagem": "https://cdn.pixabay.com/photo/2012/04/01/18/04/man-23803_960_720.png"
+    }
+	]	
+}
